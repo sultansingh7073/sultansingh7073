@@ -1,6 +1,5 @@
-## Hola, I'm [Sultan Singh!](https://pawan.live) 👋
+## Hola, I'm [Sultan Singh!](https://my-portfolio-2b251.web.app/) 👋
 
-<p align="left"> <img src="https://my-portfolio-2b251.web.app/" alt="Sultan Singh" /> </p>
 
 <a href="https://twitter.com/sultansingh7073">
   <img align="left" alt="Sultan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -8,7 +7,7 @@
 <a href="https://linkedin.com/in/sultansingh7073">
   <img align="left" alt="Sultan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/SultanKhilari">
+<a href="https://github.com/sultansingh7073">
   <img align="left" alt="Sultan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/sultansingh7073/">
@@ -22,43 +21,32 @@
 <br/>
 
 
-
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning more about Flutter State Management.
-- 👯 I’m looking to collaborate on Flutter Ad.
-- 🤔 I’m looking for help with VelocityX documentation.
+- ⚡  I’m a Flutter Android Developer
+- 🔭 I’m currently working on Flutter Advanced Concepts.
+- 🌱 Learning everyday, currently learning Flutter State Management, BlockChain, Firebase etc ...
+- 👯 I’m looking to collaborate on Flutter Advanced Concepts.
+- 🤔 I’m always looking for challenging work oppurtunities ahead..
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- 📫 How to reach me: , [Email - ](sultankhilari7073@gmail.com) [Twitter - @sultansingh7073](https://twitter.com/sultansingh7073)
+- 
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Twitter: sultansingh7073](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/sultansingh7073)
+[![Linkedin: sultansingh7073](https://img.shields.io/badge/-sultansingh7073-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultansingh7073/)](https://www.linkedin.com/in/sultansingh7073/)
+[![GitHub sultansingh7073](https://img.shields.io/github/followers/sultansingh7073?label=follow&style=social)](https://github.com/sultansingh7073)
+[![website](https://my-portfolio-2b251.web.app/)
 
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>  
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/sultansingh7073">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultansingh7073&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/sultansingh7073">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sultansingh7073&show_icons=true&theme=light&line_height=27" alt="Sultan's github stats"/>
 </a>
 
 <div align="center">
