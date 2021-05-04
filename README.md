@@ -27,20 +27,23 @@
 - 👯 I’m looking to collaborate on Flutter Advanced Concepts.
 - 🤔 I’m always looking for challenging work oppurtunities ahead..
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: , [Email - ](sultankhilari7073@gmail.com) [Twitter - @sultansingh7073](https://twitter.com/sultansingh7073)
+- 📫 How to reach me: , [Email - anirudhisgreat1200@gmail.com]  [Twitter - @sultansingh7073](https://twitter.com/sultansingh7073)
 - 
 
 [![Twitter: sultansingh7073](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/sultansingh7073)
 [![Linkedin: sultansingh7073](https://img.shields.io/badge/-sultansingh7073-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultansingh7073/)](https://www.linkedin.com/in/sultansingh7073/)
 [![GitHub sultansingh7073](https://img.shields.io/github/followers/sultansingh7073?label=follow&style=social)](https://github.com/sultansingh7073)
-[![website](https://my-portfolio-2b251.web.app/)
+[![website: my-portfolio](https://my-portfolio-2b251.web.app/)](https://my-portfolio-2b251.web.app/)
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>  
+
 
 <a href="https://github.com/sultansingh7073">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultansingh7073&theme=light&hide_langs_below=1" />
