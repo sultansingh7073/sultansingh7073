@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate on Flutter Advanced Concepts.
 - 🤔 I’m always looking for challenging work oppurtunities ahead..
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me:  Email - sultankhilari7073@gmail.com  ||  [Twitter - @sultansingh7073](https://twitter.com/sultansingh7073)  ||  [my-portfolio](https://my-portfolio-2b251.web.app/)
+- 📫 How to reach me:  Email - sultankhilari7073@gmail.com  ||  [My Prtfolio](https://my-portfolio-2b251.web.app/)  ||  [Twitter - @sultansingh7073](https://twitter.com/sultansingh7073)  ||  [Stackoverflow ](https://stackoverflow.com/users/15833011/sultan-singh)  ||  [Medium ](https://medium.com/@sultansingh7073) 
 
 
 [![Twitter: sultansingh7073](https://img.shields.io/twitter/follow/sultansingh7073?style=social)](https://twitter.com/sultansingh7073)
