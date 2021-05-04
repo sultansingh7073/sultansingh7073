@@ -33,7 +33,7 @@
 [![Twitter: sultansingh7073](https://img.shields.io/twitter/follow/sultansingh7073?style=social)](https://twitter.com/sultansingh7073)
 [![Linkedin: sultansingh7073](https://img.shields.io/badge/-sultansingh7073-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sultansingh7073/)](https://www.linkedin.com/in/sultansingh7073/)
 [![GitHub sultansingh7073](https://img.shields.io/github/followers/sultansingh7073?label=follow&style=social)](https://github.com/sultansingh7073)
-website: https://my-portfolio-2b251.web.app/
+[website - @my-portfolio](https://my-portfolio-2b251.web.app/)
 
 
 **Languages and Tools:**  
